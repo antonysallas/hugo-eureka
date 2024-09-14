@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hugo-eureka
+  annotations:
+    github.com/project-slug: antonysallas/hugo-eureka
+spec:
+  type: other
+  lifecycle: unknown
+  owner: admin
